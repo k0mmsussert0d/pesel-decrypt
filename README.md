@@ -8,7 +8,7 @@ PESEL number contains:
 <li>date of birth,</li>
 <li>gender,</li>
 <li>validity digit,</li>
-<li>serial number</li>.
+<li>serial number</li>
 </ul>
 
 For specific information about algorithms used to put data into a 11-digits-long string, please reffer to <a href="https://en.wikipedia.org/wiki/PESEL">Wikipedia</a>.
