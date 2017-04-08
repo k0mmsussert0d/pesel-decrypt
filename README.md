@@ -1,7 +1,7 @@
 # pesel-decrypt
 
 Simple one-file C++ application extracting data from given PESEL number.
-<b>PESELM</b> ( <i>pol.</i> Powszechny Elektroniczny System Ewidencji Ludności, Universal Electronic System for Registration of the Population) is a Polish national identification number, used in Poland since 1979.
+<b>PESEL</b> ( <i>pol.</i> Powszechny Elektroniczny System Ewidencji Ludności, Universal Electronic System for Registration of the Population) is a Polish national identification number, used in Poland since 1979.
 
 PESEL number contains:
 <ul>
