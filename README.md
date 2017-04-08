@@ -13,4 +13,4 @@ PESEL number contains:
 
 For specific information about algorithms used to put data into a 11-digits-long string, please reffer to <a href="https://en.wikipedia.org/wiki/PESEL">Wikipedia</a>.
 
-PESEL number is the main method of citizens identification. Each record in the database contains of 26 fields (additional 7 for foreigners) and it is assigned to every new Polish inhabitant.
+PESEL number is the main method of citizens identification. Each record in the database consists of 26 fields (additional 7 for foreigners) and it is assigned to every new Polish inhabitant.
